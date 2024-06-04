@@ -31,6 +31,6 @@
 <div align="center">
     <h1>💬 Discord</h1>
     <a href="https://discord.com/users/1187384354108874822">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1008690808582590494" alt="Discord Presence" title="Discord Presence">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1187384354108874822" alt="Discord Presence" title="Discord Presence">
     </a>
 </div>
