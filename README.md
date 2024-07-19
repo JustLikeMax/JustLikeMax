@@ -25,8 +25,8 @@
 
 <div align="center">
     <h1>My newest Projects</h1>
-    <a>[Guess the Artist](https://guesstheartist.vercel.app/)</a>>
-    <a>[Terminal Movie DB](https://terminalmoviedb.vercel.app/)</a>>
+    <a href="https://guesstheartist.vercel.app/">Guess the Artist</a>>
+    <a href="https://terminalmoviedb.vercel.app/">Terminal Movie DB</a>>
 </div>
 
 <div align="center">
