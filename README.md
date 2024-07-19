@@ -24,8 +24,9 @@
 </div>
 
 <div align="center">
-    <h1>Contact me</h1>
-    <p>- Send me a direct message on Discord: <a href="https://discord.com/users/1187384354108874822">justlikemax</a></p>
+    <h1>My newest Projects</h1>
+    <a>[Guess the Artist](https://guesstheartist.vercel.app/)</a>>
+    <a>[Terminal Movie DB](https://terminalmoviedb.vercel.app/)</a>>
 </div>
 
 <div align="center">
