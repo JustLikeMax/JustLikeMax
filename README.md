@@ -6,7 +6,7 @@
  
 <div align="center">
     <h1>Skills</h1>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=py,js,ts,express,django,flask,html,sqlite"></img></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://skillicons.dev/icons?i=react,postgres,js,ts,py,express"></img></a>
 </div>
 
 <div align="center">
