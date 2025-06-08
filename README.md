@@ -21,9 +21,11 @@
 
 <div align="center">
     <h1>My newest Projects</h1>
-    <a href="https://guesstheartist.vercel.app/">Guess the Artist</a><br>
+    <p>Currently nothing</p>
+<!--     <a href="https://guesstheartist.vercel.app/">Guess the Artist</a><br>
     <a href="https://terminalmoviedb.vercel.app/">Terminal Movie DB</a>
-</div>
+</div> -->
+
 
 <div align="center">
     <h1>💬 Discord</h1>
